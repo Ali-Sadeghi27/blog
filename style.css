@@ -75,3 +75,62 @@
 div a i {
     font-size: 40px;
 }
+.text-header-sm {
+    font-size: 40px;
+    margin-top: 140px;
+}
+.text-name-sm {
+    margin-top: 200px;
+    font-size: 25px;
+    border: 3px solid yellow;
+    border-radius: 50%;
+    text-align: center;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    background-color: rgb(4, 217, 255);
+    color: darkblue;
+}
+.text-nationality-sm {
+    margin-top: 200px;
+    font-size: 25px;
+    border: 3px solid yellow;
+    border-radius: 50%;
+    text-align: center;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    background-color: rgb(4, 217, 255);
+    color: darkblue;
+}
+.text-job-sm {
+    margin-top: 200px;
+    font-size: 25px;
+    border: 3px solid yellow;
+    border-radius: 50%;
+    text-align: center;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    background-color: rgb(4, 217, 255);
+    color: darkblue;
+}
+.text-age-sm {
+    margin-top: 200px;
+    font-size: 25px;
+    border: 3px solid rgb(4, 217, 255);
+    border-radius: 50%;
+    text-align: center;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    background-color: yellow;
+    color: darkblue;
+}
+.text-education-sm {
+    margin-top: 200px;
+    font-size: 25px;
+    border: 3px solid rgb(4, 217, 255);
+    border-radius: 50%;
+    text-align: center;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    background-color: yellow;
+    color: darkblue;
+}
