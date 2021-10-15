@@ -6,7 +6,7 @@
     font-size: 80px;
     margin-top: 280px;
 }
-.text-name {
+.text-name, .text-nationality, .text-job {
     margin-top: 333px;
     font-size: 45px;
     border: 3px solid yellow;
@@ -18,7 +18,7 @@
     background-color: rgb(4, 217, 255);
     color: darkblue;
 }
-.text-age {
+.text-age, .text-education {
     margin-top: 333px;
     font-size: 45px;
     border: 3px solid rgb(4, 217, 255);
@@ -28,42 +28,6 @@
     padding-top: 20px;
     padding-bottom: 20px;
     background-color: yellow;
-    color: darkblue;
-}
-.text-nationality {
-    margin-top: 333px;
-    font-size: 45px;
-    border: 3px solid yellow;
-    border-radius: 50%;
-    margin-left: 100px;
-    margin-right: 100px;
-    padding-top: 20px;
-    padding-bottom: 20px;
-    background-color: rgb(4, 217, 255);
-    color: darkblue;
-}
-.text-education {
-    margin-top: 333px;
-    font-size: 45px;
-    border: 3px solid rgb(4, 217, 255);
-    border-radius: 50%;
-    margin-left: 100px;
-    margin-right: 100px;
-    padding-top: 20px;
-    padding-bottom: 20px;
-    background-color: yellow;
-    color: darkblue;
-}
-.text-job {
-    margin-top: 333px;
-    font-size: 45px;
-    border: 3px solid yellow;
-    border-radius: 50%;
-    margin-left: 100px;
-    margin-right: 100px;
-    padding-top: 20px;
-    padding-bottom: 20px;
-    background-color: rgb(4, 217, 255);
     color: darkblue;
 }
 .text-table {
@@ -79,7 +43,7 @@ div a i {
     font-size: 40px;
     margin-top: 140px;
 }
-.text-name-sm {
+.text-nationality-sm, .text-job-sm, .text-name-sm {
     margin-top: 200px;
     font-size: 25px;
     border: 3px solid yellow;
@@ -90,40 +54,7 @@ div a i {
     background-color: rgb(4, 217, 255);
     color: darkblue;
 }
-.text-nationality-sm {
-    margin-top: 200px;
-    font-size: 25px;
-    border: 3px solid yellow;
-    border-radius: 50%;
-    text-align: center;
-    padding-top: 20px;
-    padding-bottom: 20px;
-    background-color: rgb(4, 217, 255);
-    color: darkblue;
-}
-.text-job-sm {
-    margin-top: 200px;
-    font-size: 25px;
-    border: 3px solid yellow;
-    border-radius: 50%;
-    text-align: center;
-    padding-top: 20px;
-    padding-bottom: 20px;
-    background-color: rgb(4, 217, 255);
-    color: darkblue;
-}
-.text-age-sm {
-    margin-top: 200px;
-    font-size: 25px;
-    border: 3px solid rgb(4, 217, 255);
-    border-radius: 50%;
-    text-align: center;
-    padding-top: 20px;
-    padding-bottom: 20px;
-    background-color: yellow;
-    color: darkblue;
-}
-.text-education-sm {
+.text-age-sm, .text-education-sm {
     margin-top: 200px;
     font-size: 25px;
     border: 3px solid rgb(4, 217, 255);
