@@ -66,3 +66,9 @@
     background-color: rgb(4, 217, 255);
     color: darkblue;
 }
+.text-table {
+    margin-top: 350px;
+    margin-bottom: 20px;
+    font-size: 40px;
+    color: white;
+}
